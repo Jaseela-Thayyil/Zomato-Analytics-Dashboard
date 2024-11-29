@@ -34,6 +34,18 @@ The analysis addresses the following business questions:
 # Process
 The project followed a structured process to analyze and visualize the data:
 ### Step 1: Data Cleaning and Preparation (SQL)
-Used SQL queries to clean and structure the raw data for analysis.
+1. Used SQL queries to clean and structure the raw data for analysis.
 
-Merged the country code mapping with the main dataset.
+2. Merged the country code mapping with the main dataset.
+
+### Step 2: Exploratory Data Analysis (Excel)
+1. Conducted initial exploration of the data using pivot tables and charts.
+
+2. Created basic dashboards to identify trends and patterns.
+
+### Step 3: Advanced Visualization (Power BI & Tableau)
+1. Built interactive dashboards in Power BI and Tableau for deep dives into metrics like restaurant trends, ratings, and delivery options.
+
+2. Added slicers for year, country, and financial quarters to enable detailed filtering.
+### Step 4: Insights Extraction
+1. Analyzed KPIs using visualizations to identify actionable business insights.
