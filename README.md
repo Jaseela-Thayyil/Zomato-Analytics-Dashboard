@@ -15,10 +15,10 @@ The dataset also includes a Country Code Mapping file to associate country names
 # Key Questions (KPIs)
 The analysis addresses the following business questions:
 
-How many restaurants are there in each country and city?
-What is the year-wise and month-wise trend of restaurant openings?
-What percentage of restaurants offer table booking and online delivery?
-How are restaurants distributed by price buckets?
-Which countries and cities have the highest number of restaurants?
-What are the top-rated restaurants and their distribution across ratings?
-Which restaurants have the most votes?
+1.How many restaurants are there in each country and city?
+2.What is the year-wise and month-wise trend of restaurant openings?
+3.What percentage of restaurants offer table booking and online delivery?
+4.How are restaurants distributed by price buckets?
+5.Which countries and cities have the highest number of restaurants?
+6.What are the top-rated restaurants and their distribution across ratings?
+7.Which restaurants have the most votes?
