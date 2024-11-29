@@ -58,4 +58,4 @@ The project followed a structured process to analyze and visualize the data:
 ### Power Bi
 ![Screenshot of Applicatio ](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20powe%20bi%20db-1.png)
 
-![Screenshot of Applicatio](
+![Screenshot of Applicatio](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20power%20bi%20db-2.png)
