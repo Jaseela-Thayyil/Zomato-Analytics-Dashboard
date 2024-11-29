@@ -35,4 +35,5 @@ The analysis addresses the following business questions:
 The project followed a structured process to analyze and visualize the data:
 ### Step 1: Data Cleaning and Preparation (SQL)
 Used SQL queries to clean and structure the raw data for analysis.
+
 Merged the country code mapping with the main dataset.
