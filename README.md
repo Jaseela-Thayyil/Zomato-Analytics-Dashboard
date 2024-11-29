@@ -52,5 +52,5 @@ The project followed a structured process to analyze and visualize the data:
 # Dashboards
 ### Excel Dashboard
 
-<a href="https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomato%20excel%20db.png"></a>
-<a img https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomato%20excel%20db.png
+
+https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomato%20excel%20db.png
