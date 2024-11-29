@@ -59,5 +59,5 @@ The project followed a structured process to analyze and visualize the data:
 ![Screenshot of Applicatio ](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20powe%20bi%20db-1.png)
 
 ![Screenshot of Applicatio](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20power%20bi%20db-2.png)
-
-![Screenshot of Applicatio](
+### Tableau Dashboard
+![Screenshot of Applicatio](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20tableau%20db.png)
