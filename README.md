@@ -54,7 +54,7 @@ The project followed a structured process to analyze and visualize the data:
 
 
 ![Screenshot of Applicatio ](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomato%20excel%20db.png)
-
+<a href="https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20project%20excel.xlsx">view dashbord</a>
 ### Power Bi Dashboard
 ![Screenshot of Applicatio ](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20powe%20bi%20db-1.png)
 
