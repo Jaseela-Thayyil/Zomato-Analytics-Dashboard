@@ -63,3 +63,4 @@ The project followed a structured process to analyze and visualize the data:
 ![Screenshot of Applicatio](https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/Zomato%20tableau%20db.png)
 ### SQL Queries: 
 Used to extract insights from the dataset for visualization.
+< href ="https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomatodash.sql"><a/>
