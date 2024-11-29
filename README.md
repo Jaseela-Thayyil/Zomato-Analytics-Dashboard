@@ -85,5 +85,7 @@ The majority of restaurants (3,512) fall into the lowest price range (0–300).
 The analysis highlights key areas where Zomato can focus to improve its services and operational strategies:
 
 Invest in promoting online delivery and table booking to increase adoption rates.
+
 Target markets in high-potential countries and cities with fewer restaurants.
+
 Focus marketing efforts on mid-to-high price bucket restaurants to improve profitability.
