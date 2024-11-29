@@ -51,6 +51,6 @@ The project followed a structured process to analyze and visualize the data:
 1. Analyzed KPIs using visualizations to identify actionable business insights.
 # Dashboards
 ### Excel Dashboard
-<img width="711" alt="exceldashboard" src=zomato excel db.png >
-![sreenshot]zomato excel db.png
+
+
 https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomato%20excel%20db.png
