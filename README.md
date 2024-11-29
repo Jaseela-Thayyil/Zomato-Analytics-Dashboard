@@ -49,3 +49,7 @@ The project followed a structured process to analyze and visualize the data:
 2. Added slicers for year, country, and financial quarters to enable detailed filtering.
 ### Step 4: Insights Extraction
 1. Analyzed KPIs using visualizations to identify actionable business insights.
+# Dashboards
+### Excel Dashboard
+
+<a href=
