@@ -69,15 +69,15 @@ Used to extract insights from the dataset for visualization.
 # Insights
 Key insights derived from the analysis include:
 
-### Country Distribution: 
+#### 1.Country Distribution: 
 India dominates with the highest number of restaurants (8.7k).
-### Trends in Openings:
+#### 2.Trends in Openings:
 Highest restaurant openings in 2018 with a consistent increase since 2010.
 March and September show peak restaurant openings.
-### Booking Options:
+#### 3.Booking Options:
 Only 12.12% of restaurants offer table booking.
 25.66% provide online delivery services.
-### Price Buckets:
+#### 4.Price Buckets:
 The majority of restaurants (3,512) fall into the lowest price range (0–300).
-### Top Restaurants by Votes:
+#### 5.Top Restaurants by Votes:
 "Barbeque Nation" leads with the highest votes (28k).
