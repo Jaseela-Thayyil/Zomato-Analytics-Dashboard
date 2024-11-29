@@ -66,3 +66,18 @@ The project followed a structured process to analyze and visualize the data:
 ### SQL Queries: 
 Used to extract insights from the dataset for visualization.
 <a href="https://github.com/Jaseela-Thayyil/Zomato-Analytics-Dashboard/blob/main/zomatodash.sql">viewquery</a>
+# Insights
+Key insights derived from the analysis include:
+
+### Country Distribution: 
+India dominates with the highest number of restaurants (8.7k).
+### Trends in Openings:
+Highest restaurant openings in 2018 with a consistent increase since 2010.
+March and September show peak restaurant openings.
+### Booking Options:
+Only 12.12% of restaurants offer table booking.
+25.66% provide online delivery services.
+### Price Buckets:
+The majority of restaurants (3,512) fall into the lowest price range (0–300).
+### Top Restaurants by Votes:
+"Barbeque Nation" leads with the highest votes (28k).
